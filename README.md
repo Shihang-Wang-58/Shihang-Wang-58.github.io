@@ -1,5 +1,5 @@
 # Shihang Wang(王世航)
-This is Shihang Wang's personal [homepage](https://Shihang-Wang-58.github.io/).
+This is Ze Jiang's personal [homepage](https://Shihang-Wang-58.github.io/).
 
 ## ***A short introduction***
 
