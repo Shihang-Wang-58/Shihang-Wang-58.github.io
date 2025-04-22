@@ -440,16 +440,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+            },},{id: "news-we-have-proposed-phenomodel",
+          title: 'we have proposed PhenoModel',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-congratulations-to-our-two-groups-for-rewarding-the-first-and-second-prizes-in-the-2023-shanghai-international-computational-biology-innovation-competition-utilizing-geminimol-we-identified-a-new-inhibitor-targeting-glun1-glun3a-ic50-0-98-μm-geminimol-is-all-you-need-sparkles-smile",
+          title: 'Congratulations to our two groups for rewarding the first and second prizes in...',
+          description: "",
+          section: "News",},{id: "news-i-got-the-offer-from-macau-polytechnic-university-with-full-scholarship",
+          title: 'I got the offer from Macau Polytechnic University with full scholarship.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
