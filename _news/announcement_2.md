@@ -1,8 +1,8 @@
 ---
 layout: post
-title: we have proposed PhenoModel
-date: 2015-11-07 16:11:00-0400
-inline: false
+title: We have proposed PhenoModel
+date: 2024-10-07 16:11:00-0400
+inline: true
 related_posts: false
 ---
 
