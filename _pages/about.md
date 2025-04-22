@@ -2,15 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: PhD Student in Macao Polytechnic University
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
+    <p>There is more to life than research</p>
+    <p>wshshou@163.com</p>
     <p>Shanghai, China</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -27,8 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm [**Shihang Wang** \(王世航\)](https://scholar.google.com/citations?user=LAhfJTEAAAAJ&hl=zh-CN), a master student of ShanghaiTech University, supervised by [Fang Bai](https://scholar.google.com.hk/citations?user=FZ3zkfcAAAAJ&hl=zh-CN). I received my B.S. degree at college of fisheries and life science of Shanghai Ocean University \(SHOU\) in 2022. I will start my PhD career at Macau Polytechnic University \(MPU\) in 2025, supervised by [Xiaojun Yao](https://www.mpu.edu.mo/esca/zh/yaoxiaojun.php).
+    
+My research interests center around the **application of artificial intelligence algorithms in drug design**, with a particular focus on molecular representation, ADMET properties prediction, phenotypic-based drug discovery and molecular generation. Additionally, I am dedicated to advancing computational methods for molecular design in order to find new avenues for breakthroughs in drug development. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My WeChat ID is *SeanMC795*, feel free to talk with me!
