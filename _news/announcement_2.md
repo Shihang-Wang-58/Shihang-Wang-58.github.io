@@ -1,6 +1,6 @@
 ---
 layout: post
-title: We have proposed PhenoModel
+title: We have proposed PhenoModel!
 date: 2024-10-07 16:11:00-0400
 inline: true
 related_posts: false
