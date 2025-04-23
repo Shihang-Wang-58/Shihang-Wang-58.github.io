@@ -2,7 +2,7 @@
 layout: post
 title: First prize in the 2023 Shanghai International Computational Biology Innovation Competition!
 date: 2024-09-15 07:59:00-0400
-inline: true
+inline: false
 related_posts: false
 ---
 

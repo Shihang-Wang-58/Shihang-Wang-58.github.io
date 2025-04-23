@@ -2,7 +2,7 @@
 layout: post
 title: We have proposed PhenoModel!
 date: 2024-10-07 16:11:00-0400
-inline: true
+inline: false
 related_posts: false
 ---
 

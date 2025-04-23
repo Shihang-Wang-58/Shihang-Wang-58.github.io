@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>There is more to life than research</p>
+    <p>Welcome to talk with me</p>
     <p>wshshou@163.com</p>
     <p>Shanghai, China</p>
 
