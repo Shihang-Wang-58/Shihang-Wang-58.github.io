@@ -8,6 +8,4 @@ related_posts: false
 
 GeminiMol incorporates conformational space information into molecular representation learning, refer to [GitHub](https://github.com/Wang-Lin-boop/GeminiMol).
 
----
-
-GeminiMol was published in [*Advanced Science*](https://onlinelibrary.wiley.com/doi/10.1002/advs.202403998), congratulations to [Lin Wang](https://wang-lin-boop.github.io/WangLin/)!
+GeminiMol was published in [Advanced Science](https://onlinelibrary.wiley.com/doi/10.1002/advs.202403998), congratulations to [Lin Wang](https://wang-lin-boop.github.io/WangLin/)!
