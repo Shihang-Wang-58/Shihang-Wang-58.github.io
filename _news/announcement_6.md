@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "We proposed a deep learning based computational model called DeepSA!"
+title: We proposed a deep learning based computational model called DeepSA!
 date: 2023-11-02 15:59:00-0400
 inline: false
 related_posts: false
