@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "We got the first prize in the 2023 Shanghai International Computational Biology Innovation Competition!"
-date: "2024-09"
+date: 2024-09-02 15:59:00-0400
 inline: false
 related_posts: false
 ---

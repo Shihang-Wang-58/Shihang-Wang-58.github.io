@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "We have proposed GeminiMol!"
-date: "2024-08"
+date: 2024-08-02 15:59:00-0400
 inline: false
 related_posts: false
 ---
