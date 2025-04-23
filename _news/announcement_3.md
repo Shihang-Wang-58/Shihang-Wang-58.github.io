@@ -1,6 +1,6 @@
 ---
 layout: post
-title: We got the first prize in the 2023 Shanghai International Computational Biology Innovation Competition!
+title: "We got the first prize in the 2023 Shanghai International Computational Biology Innovation Competition!"
 date: 2024-09
 inline: false
 related_posts: false

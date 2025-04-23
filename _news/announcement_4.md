@@ -1,6 +1,6 @@
 ---
 layout: post
-title: We have proposed GeminiMol!
+title: "We have proposed GeminiMol!"
 date: 2024-08
 inline: false
 related_posts: false

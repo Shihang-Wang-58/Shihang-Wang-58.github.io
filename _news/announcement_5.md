@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Congratulations to Pengxuan Ren for successfully publishing his research paper on the last day of 2023!
+title: "Congratulations to Pengxuan Ren for successfully publishing his research paper on the last day of 2023!"
 date: 2023-12
 inline: false
 related_posts: false

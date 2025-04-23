@@ -1,6 +1,6 @@
 ---
 layout: post
-title: We have proposed PhenoModel!
+title: "We have proposed PhenoModel!"
 date: 2024-10
 inline: false
 related_posts: false

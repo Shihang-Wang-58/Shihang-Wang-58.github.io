@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I published my first research paper!
+title: "I published my first research paper!"
 date: 2021-09
 inline: false
 related_posts: false
