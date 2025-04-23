@@ -440,13 +440,17 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-congratulations-to-our-two-groups-for-rewarding-the-first-and-second-prizes-in-the-2023-shanghai-international-computational-biology-innovation-competition-utilizing-geminimol-we-identified-a-new-inhibitor-targeting-glun1-glun3a-ic50-0-98-μm-geminimol-is-all-you-need-sparkles-smile",
-          title: 'Congratulations to our two groups for rewarding the first and second prizes in...',
+            },},{id: "news-first-prize-in-the-2023-shanghai-international-computational-biology-innovation-competition",
+          title: 'First prize in the 2023 Shanghai International Computational Biology Innovation Competition!',
           description: "",
-          section: "News",},{id: "news-phenomodel-is-a-dual-space-contrastive-learning-framework-based-phenotypic-screening-method-by-linking-chemical-perturbations-to-cellular-morphology-you-can-e-refer-to-github-and-biorxiv",
-          title: 'PhenoModel is a dual-space contrastive learning framework-based phenotypic screening method by linking chemical...',
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_3/";
+            },},{id: "news-we-have-proposed-phenomodel",
+          title: 'We have proposed PhenoModel!',
           description: "",
-          section: "News",},{id: "news-i-got-the-offer-from-macau-polytechnic-university-with-full-scholarship",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_2/";
+            },},{id: "news-i-got-the-offer-from-macau-polytechnic-university-with-full-scholarship",
           title: 'I got the offer from Macau Polytechnic University with full scholarship.',
           description: "",
           section: "News",},{id: "projects-project-1",
