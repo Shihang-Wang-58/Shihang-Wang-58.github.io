@@ -10,4 +10,7 @@ Congratulations to our two groups for rewarding the [first](https://competition.
 
 ---
 
-Utilizing GeminiMol, we identified a new inhibitor targeting GluN1/GluN3A (IC50 = 0.98 μM), GeminiMol is all you need! :sparkles: :smile:
+Utilizing GeminiMol, we identified a new inhibitor targeting GluN1/GluN3A (IC50 = 0.98 μM), GeminiMol is all you need! 
+
+:sparkles: :smile:
+
