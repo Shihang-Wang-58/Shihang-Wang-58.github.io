@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "We proposed a deep learning based computational model called DeepSA!"
-date: 2023-11
+date: "2023-11"
 inline: false
 related_posts: false
 ---
@@ -11,4 +11,3 @@ related_posts: false
 ---
 
 DeepSA has a high early enrichment rate for difficult to synthesize compounds and is significantly outperforming other existing methods. DeepSA is currently available online through the [*Bailab website*](https://bailab.siais.shanghaitech.edu.cn/deepsa). This work was done jointly by Lin Wang and me.
-
