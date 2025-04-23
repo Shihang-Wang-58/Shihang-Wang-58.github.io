@@ -445,13 +445,17 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_9/";
-            },},{id: "news-bailab",
-          title: 'BaiLab',
+            },},{id: "news-i-joined-bailab-of-shanghaitech-university",
+          title: 'I joined BaiLab of ShanghaiTech University.',
           description: "",
-          section: "News",},{id: "news-",
-          title: '',
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_8/";
+            },},{id: "news-we-proposed-a-deep-learning-based-mrna-subcellular-localization-model-called-deepmrnaloc",
+          title: 'We proposed a deep learning based mRNA subcellular localization model called DeepmRNALoc!',
           description: "",
-          section: "News",},{id: "news-we-proposed-a-deep-learning-based-computational-model-called-deepsa",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_7/";
+            },},{id: "news-we-proposed-a-deep-learning-based-computational-model-called-deepsa",
           title: 'We proposed a deep learning based computational model called DeepSA!',
           description: "",
           section: "News",handler: () => {
@@ -476,10 +480,12 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-",
-          title: '',
+            },},{id: "news-i-got-the-offer-from-macau-polytechnic-university-with-full-scholarship",
+          title: 'I got the offer from Macau Polytechnic University with full scholarship.',
           description: "",
-          section: "News",},{id: "projects-project-1",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_1/";
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
@@ -529,28 +535,35 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
+          window.open("mailto:%77%73%68%73%68%6F%75@%31%36%33.%63%6F%6D", "_blank");
         },
       },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
+        id: 'social-github',
+        title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
+          window.open("https://github.com/Shihang-Wang-58", "_blank");
         },
       },{
-        id: 'social-rss',
-        title: 'RSS Feed',
+        id: 'social-orcid',
+        title: 'ORCID',
         section: 'Socials',
         handler: () => {
-          window.open("/feed.xml", "_blank");
+          window.open("https://orcid.org/0000-0002-4714-6504", "_blank");
+        },
+      },{
+        id: 'social-researchgate',
+        title: 'ResearchGate',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.researchgate.net/profile/Shihang-Wang-7/", "_blank");
         },
       },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
+          window.open("https://scholar.google.com/citations?user=LAhfJTEAAAAJ", "_blank");
         },
       },{
         id: 'social-custom_social',
