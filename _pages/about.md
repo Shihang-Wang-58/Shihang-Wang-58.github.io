@@ -28,7 +28,7 @@ latest_posts:
 ---
 
 I'm [**Shihang Wang** \(王世航\)](https://scholar.google.com/citations?user=LAhfJTEAAAAJ&hl=zh-CN), a master student of ShanghaiTech University, supervised by [Fang Bai](https://scholar.google.com.hk/citations?user=FZ3zkfcAAAAJ&hl=zh-CN). I received my B.S. degree at college of fisheries and life science of Shanghai Ocean University \(SHOU\) in 2022. I will start my PhD career at Macau Polytechnic University \(MPU\) in 2025, supervised by [Xiaojun Yao](https://www.mpu.edu.mo/esca/zh/yaoxiaojun.php).
-    
-My research interests center around the **application of artificial intelligence algorithms in drug design**, with a particular focus on molecular representation, ADMET properties prediction, phenotypic-based drug discovery and molecular generation. Additionally, I am dedicated to advancing computational methods for molecular design in order to find new avenues for breakthroughs in drug development. 
+
+My research interests center around the **application of artificial intelligence algorithms in drug design**, with a particular focus on molecular representation, ADMET properties prediction, phenotypic-based drug discovery and molecular generation. Additionally, I am dedicated to advancing computational methods for molecular design in order to find new avenues for breakthroughs in drug development.
 
 My WeChat ID is *SeanMC795*, feel free to talk with me!
