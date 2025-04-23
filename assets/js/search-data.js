@@ -440,8 +440,34 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-first-prize-in-the-2023-shanghai-international-computational-biology-innovation-competition",
-          title: 'First prize in the 2023 Shanghai International Computational Biology Innovation Competition!',
+            },},{id: "news-i-published-my-first-research-paper",
+          title: 'I published my first research paper!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_9/";
+            },},{id: "news-bailab",
+          title: 'BaiLab',
+          description: "",
+          section: "News",},{id: "news-",
+          title: '',
+          description: "",
+          section: "News",},{id: "news-we-proposed-a-deep-learning-based-computational-model-called-deepsa",
+          title: 'We proposed a deep learning based computational model called DeepSA!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_6/";
+            },},{id: "news-congratulations-to-pengxuan-ren-for-successfully-publishing-his-research-paper-on-the-last-day-of-2023",
+          title: 'Congratulations to Pengxuan Ren for successfully publishing his research paper on the last...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_5/";
+            },},{id: "news-we-have-proposed-geminimol",
+          title: 'We have proposed GeminiMol!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_4/";
+            },},{id: "news-we-got-the-first-prize-in-the-2023-shanghai-international-computational-biology-innovation-competition",
+          title: 'We got the first prize in the 2023 Shanghai International Computational Biology Innovation...',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_3/";
@@ -450,8 +476,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-i-got-the-offer-from-macau-polytechnic-university-with-full-scholarship",
-          title: 'I got the offer from Macau Polytechnic University with full scholarship.',
+            },},{id: "news-",
+          title: '',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
