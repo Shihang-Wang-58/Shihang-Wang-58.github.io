@@ -566,11 +566,11 @@ ninja.data = [{
           window.open("https://scholar.google.com/citations?user=LAhfJTEAAAAJ", "_blank");
         },
       },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
+        id: 'social-wechat_qr',
+        title: 'Wechat_qr',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
+          window.open("", "_blank");
         },
       },{
       id: 'light-theme',
