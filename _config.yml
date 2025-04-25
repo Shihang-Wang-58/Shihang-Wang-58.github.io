@@ -193,6 +193,10 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  - _pages/blog.md
+  - _posts/
+  - _projects/?_project.md
+  - _teaching.md
 keep_files:
   - CNAME
   - .nojekyll
