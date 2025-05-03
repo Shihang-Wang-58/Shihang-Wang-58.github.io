@@ -75,52 +75,52 @@ ninja.data = [{
           title: 'I published my first research paper!',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_9/";
+              window.location.href = "/news/announcement_001/";
             },},{id: "news-i-joined-bailab-of-shanghaitech-university",
           title: 'I joined BaiLab of ShanghaiTech University.',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_8/";
+              window.location.href = "/news/announcement_002/";
             },},{id: "news-we-proposed-a-deep-learning-based-mrna-subcellular-localization-model-called-deepmrnaloc",
           title: 'We proposed a deep learning based mRNA subcellular localization model called DeepmRNALoc!',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_7/";
+              window.location.href = "/news/announcement_003/";
             },},{id: "news-we-proposed-a-deep-learning-based-computational-model-called-deepsa",
           title: 'We proposed a deep learning based computational model called DeepSA!',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_6/";
+              window.location.href = "/news/announcement_004/";
             },},{id: "news-congratulations-to-pengxuan-ren-for-successfully-publishing-his-research-paper-on-the-last-day-of-2023",
           title: 'Congratulations to Pengxuan Ren for successfully publishing his research paper on the last...',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_5/";
+              window.location.href = "/news/announcement_005/";
             },},{id: "news-we-have-proposed-geminimol",
           title: 'We have proposed GeminiMol!',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_4/";
+              window.location.href = "/news/announcement_006/";
             },},{id: "news-we-got-the-first-prize-in-the-2023-shanghai-international-computational-biology-innovation-competition",
           title: 'We got the first prize in the 2023 Shanghai International Computational Biology Innovation...',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_3/";
+              window.location.href = "/news/announcement_007/";
             },},{id: "news-we-have-proposed-phenomodel",
           title: 'We have proposed PhenoModel!',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
+              window.location.href = "/news/announcement_008/";
             },},{id: "news-i-got-the-offer-from-macau-polytechnic-university-with-full-scholarship",
           title: 'I got the offer from Macau Polytechnic University with full scholarship.',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_1/";
+              window.location.href = "/news/announcement_009/";
             },},{id: "news-i-got-the-outstanding-speaker-at-acs2025",
           title: 'I got the outstanding speaker at ACS2025!',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_10/";
+              window.location.href = "/news/announcement_010/";
             },},{
         id: 'social-email',
         title: 'email',
