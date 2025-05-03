@@ -116,6 +116,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_1/";
+            },},{id: "news-i-got-the-outstanding-speaker-at-acs2025",
+          title: 'I got the outstanding speaker at ACS2025!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_10/";
             },},{
         id: 'social-email',
         title: 'email',
