@@ -121,6 +121,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_010/";
+            },},{id: "news-we-published-a-research-article-in-aps-about-nmdar-lead-discovery",
+          title: 'We published a research article in APS about NMDAR lead discovery!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_011/";
             },},{
         id: 'social-email',
         title: 'email',
