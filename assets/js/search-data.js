@@ -126,6 +126,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_011/";
+            },},{id: "news-i-passed-the-defense-of-my-master-39-s-thesis-and-received-my-master-of-science-degree",
+          title: 'I passed the defense of my master&amp;#39;s thesis and received my master of...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_012/";
             },},{
         id: 'social-email',
         title: 'email',
