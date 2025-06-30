@@ -131,6 +131,16 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_012/";
+            },},{id: "news-we-published-a-research-article-in-jcim-about-protac-synthetic-accessibility-prediction",
+          title: 'We published a research article in JCIM about PROTAC synthetic accessibility prediction!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_013/";
+            },},{id: "news-i-published-my-first-review-article-in-npjdd-about-molecular-representation",
+          title: 'I published my first review article in npjDD about molecular representation!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_014/";
             },},{
         id: 'social-email',
         title: 'email',
