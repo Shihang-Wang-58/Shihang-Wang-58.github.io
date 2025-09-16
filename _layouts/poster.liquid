@@ -1,0 +1,43 @@
+---
+layout: page
+---
+
+<div class="poster-detail">
+  <h1>{{ page.title }}</h1>
+  
+  {% if page.conference %}
+    <p><strong>Conference:</strong> {{ page.conference }}</p>
+  {% endif %}
+  
+  {% if page.date %}
+    <p><strong>Date:</strong> {{ page.date | date: "%B %d, %Y" }}</p>
+  {% endif %}
+  
+  {% if page.status %}
+    <p><strong>Status:</strong> <span class="badge badge-{{ page.status }}">{{ page.status | capitalize }}</span></p>
+  {% endif %}
+  
+  {% if page.image %}
+    <div class="poster-image">
+      <img src="{{ page.image | relative_url }}" alt="{{ page.title }}" style="max-width: 100%; height: auto;">
+    </div>
+  {% endif %}
+  
+  <div class="poster-content">
+    {{ content }}
+  </div>
+  
+  {% if page.pdf %}
+    <div class="poster-links">
+      <a href="{{ page.pdf | relative_url }}" class="btn btn-primary" target="_blank">
+        <i class="fas fa-file-pdf"></i> View PDF
+      </a>
+    </div>
+  {% endif %}
+  
+  {% if page.category %}
+    <div class="poster-category">
+      <span class="badge badge-secondary">{{ page.category }}</span>
+    </div>
+  {% endif %}
+</div>

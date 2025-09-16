@@ -146,6 +146,8 @@ newsletter:
 collections:
   books:
     output: true
+  posters:
+    output: true
   news:
     defaults:
       layout: post
@@ -260,6 +262,8 @@ jekyll-archives:
       tags: "/blog/:type/:name/"
       categories: "/blog/:type/:name/"
   books:
+    enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
+  posters:
     enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
 
 display_tags: ["formatting", "images", "links", "math", "code", "blockquotes"] # these tags will be displayed on the front page of your blog
