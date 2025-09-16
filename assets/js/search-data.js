@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-posters",
+          title: "posters",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/posters/";
+          },
         },{id: "nav-repositories",
           title: "repositories",
           description: "Wish to make lots of good jobs! Welcome to talk with me!",
@@ -146,6 +153,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_015/";
+            },},{id: "posters-phenomodel-in-9th-ihuman-conference",
+          title: 'PhenoModel in 9th iHuman Conference',
+          description: "",
+          section: "Posters",handler: () => {
+              window.location.href = "/posters/iHuman-PhenoModel/";
             },},{
         id: 'social-email',
         title: 'email',
