@@ -118,8 +118,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_008/";
-            },},{id: "news-i-got-the-offer-from-macau-polytechnic-university-with-full-scholarship",
-          title: 'I got the offer from Macau Polytechnic University with full scholarship.',
+            },},{id: "news-i-got-the-offer-from-macao-polytechnic-university-with-full-scholarship",
+          title: 'I got the offer from Macao Polytechnic University with full scholarship.',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_009/";
