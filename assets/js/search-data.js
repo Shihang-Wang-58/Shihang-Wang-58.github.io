@@ -148,8 +148,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_014/";
-            },},{id: "news-phenomodel-has-been-accepted-by-acta-pharmacologica-sinica-b-apsb",
-          title: 'PhenoModel has been accepted by Acta Pharmacologica Sinica B (APSB)!',
+            },},{id: "news-phenomodel-has-been-published-in-acta-pharmacologica-sinica-b-apsb",
+          title: 'PhenoModel has been published in Acta Pharmacologica Sinica B (APSB)!',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_015/";
