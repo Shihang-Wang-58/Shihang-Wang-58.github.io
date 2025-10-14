@@ -31,6 +31,6 @@ I'm [**Shihang Wang** \(王世航\)](https://scholar.google.com/citations?user=L
 
 My research interests center around the **application of artificial intelligence algorithms in drug design**, with a particular focus on molecular representation, molecular properties prediction, molecular generation and phenotypic-based drug discovery. Additionally, I am dedicated to advancing computational methods for molecular design in order to find new avenues for breakthroughs in drug development.
 
-My research papers were published at *APSB*, *APS*, *Journal of Cheminformatics*, *JCIM*, etc., and I have served as a reviewer of *TPAMI*. **I'm looking for like-minded partners. If you have any fancy ideas, please feel free to contact me!** My WeChat ID is *SeanMC795*.
+My research papers were published at *APSB*, *APS*, *Journal of Cheminformatics*, *JCIM*, etc., and I have served as a reviewer including *TPAMI*, and *ACS Omega*. **I'm looking for like-minded partners. If you have any fancy ideas, please feel free to contact me!** My WeChat ID is *SeanMC795*.
 
-作为一名合格的ENFJ，我会尽我所能与合作者建立长久可靠、互惠互利的合作关系！
+非常欢迎与我合作交流！
