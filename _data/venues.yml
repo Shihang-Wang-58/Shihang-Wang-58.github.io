@@ -1,9 +1,44 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"JMV":
+  url: https://onlinelibrary.wiley.com/journal/10969071
+  color: "#1a5276"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"JBCB":
+  url: https://www.worldscientific.com/worldscinet/jbcb
+  color: "#6c757d"
 
-"Vision":
-  color: "#009f36"
+"Environ Res":
+  url: https://www.sciencedirect.com/journal/environmental-research
+  color: "#27ae60"
+
+"Molecules":
+  url: https://www.mdpi.com/journal/molecules
+  color: "#8e44ad"
+
+"J Cheminfo":
+  url: https://jcheminf.biomedcentral.com/
+  color: "#e67e22"
+
+"Adv Sci":
+  url: https://onlinelibrary.wiley.com/journal/21983844
+  color: "#c0392b"
+
+"APSB":
+  url: https://www.sciencedirect.com/journal/acta-pharmacologica-sinica-b
+  color: "#2980b9"
+
+"APS":
+  url: https://www.nature.com/aps/
+  color: "#16a085"
+
+"JCIM":
+  url: https://pubs.acs.org/journal/jcisd8
+  color: "#d35400"
+
+"npjDD":
+  url: https://www.nature.com/npjdrugdisc/
+  color: "#2c3e50"
+
+"bioRxiv":
+  url: https://www.biorxiv.org/
+  color: "#95a5a6"
+

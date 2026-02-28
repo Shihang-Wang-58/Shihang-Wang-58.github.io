@@ -1,18 +1,18 @@
 {
   "basics": {
     "name": "Shihang Wang",
-    "label": "Scientist",
+    "label": "PhD Student",
     "image": "",
     "email": "shihangwang58@outlook.com",
     "phone": "",
     "url": "https://shihang-wang-58.github.io/",
     "summary": "A good person",
     "location": {
-      "address": "393 Middle Huaxia Road",
-      "postalCode": "CN 201210",
-      "city": "Shanghai",
+      "address": "Gaomeishi Street",
+      "postalCode": "CN 999078",
+      "city": "Macao",
       "countryCode": "CN",
-      "region": "Shanghai"
+      "region": "Macao"
     },
     "profiles": [
       {
@@ -44,6 +44,17 @@
   ],
   "education": [
     {
+      "institution": "Macao Polytechnic University",
+      "location": "Macao, China",
+      "url": "https://www.mpu.edu.mo/",
+      "area": "Computer Applied Technology",
+      "studyType": "PhD",
+      "startDate": "2025-09-01",
+      "endDate": "",
+      "score": "",
+      "courses": ["AI-powered Drug Design"]
+    },
+    {
       "institution": "ShanghaiTech University",
       "location": "Shanghai, China",
       "url": "https://www.shanghaitech.edu.cn/",
@@ -59,7 +70,7 @@
       "location": "Shanghai, China",
       "url": "https://www.shou.edu.cn/",
       "area": "Bioinformatics",
-      "studyType": "Bacholar",
+      "studyType": "Bachelor",
       "startDate": "2018-09-01",
       "endDate": "2022-06-30",
       "score": "10",
@@ -82,10 +93,10 @@
   ],
   "publications": [
     {
-      "name": "PhenoScreen: A Dual-Space Contrastive Learning Framework-based Phenotypic Screening Method by Linking Chemical Perturbations to Cellular Morphology",
-      "publisher": "bioRxiv",
-      "releaseDate": "2024-10-28",
-      "url": "https://www.biorxiv.org/content/10.1101/2024.10.23.619752v1",
+      "name": "PhenoModel: A multimodal phenotypic drug design foundation model for discovering novel potential inhibitors of multiple cancer cells",
+      "publisher": "APSB",
+      "releaseDate": "2025-09-24",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2211383525006446",
       "summary": "PhenoModel is a cutting-edge molecular representation foundation model that integrates cell phenotype data to enhance the characterization of molecules. By leveraging the rich information embedded in cell images, PhenoModel significantly improves performance in various drug discovery tasks, particularly in virtual screening. Based on PhenoModel, we developed an active compound screening pipeline called PhenoScreen to further screen other molecules with similar activities but novel scaffolds according to the known active compounds."
     },
     {
