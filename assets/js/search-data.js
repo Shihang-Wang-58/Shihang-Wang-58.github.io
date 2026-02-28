@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-projects",
+          title: "projects",
+          description: "A showcase of my research projects. Click on each project to learn more details.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/projects/";
+          },
         },{id: "nav-posters",
           title: "posters",
           description: "",
@@ -51,29 +58,7 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
-        
-          title: 'Google Gemini updates: Flash 1.5, Gemma 2 and Project Astra <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-        
-        description: "We’re sharing updates across our Gemini family of models and a glimpse of Project Astra, our vision for the future of AI assistants.",
-        section: "Posts",
-        handler: () => {
-          
-            window.open("https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/", "_blank");
-          
-        },
-      },{id: "post-displaying-external-posts-on-your-al-folio-blog",
-        
-          title: 'Displaying External Posts on Your al-folio Blog <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
-          
-        },
-      },{id: "books-the-godfather",
+            },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
@@ -158,6 +143,61 @@ ninja.data = [{
           description: "",
           section: "Posters",handler: () => {
               window.location.href = "/posters/iHuman-PhenoModel/";
+            },},{id: "projects-antiviral-drug-protease-interaction-prediction",
+          title: 'Antiviral Drug-Protease Interaction Prediction',
+          description: "Computer-aided prediction of interactions between viral proteases and antiviral drugs.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/antiviral/";
+            },},{id: "projects-bamucuo-lake-metagenomics-microbial-community-in-tibet",
+          title: 'Bamucuo Lake Metagenomics: Microbial Community in Tibet',
+          description: "Metagenomics revealing molecular profiles of microbial community in Bamucuo Lake, Tibet.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/bamucuo/";
+            },},{id: "projects-deepmrnaloc-deep-learning-based-mrna-subcellular-localization-predictor",
+          title: 'DeepmRNALoc: Deep Learning-Based mRNA Subcellular Localization Predictor',
+          description: "A novel predictor of eukaryotic mRNA subcellular localization based on deep learning.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/deepmrnaloc/";
+            },},{id: "projects-deeppsa-geometric-deep-learning-for-protac-synthetic-accessibility",
+          title: 'DeepPSA: Geometric Deep Learning for PROTAC Synthetic Accessibility',
+          description: "A geometric deep learning model for predicting PROTAC synthetic accessibility.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/deeppsa/";
+            },},{id: "projects-deepsa-deep-learning-driven-predictor-of-compound-synthesis-accessibility",
+          title: 'DeepSA: Deep Learning-Driven Predictor of Compound Synthesis Accessibility',
+          description: "A deep learning model that predicts the synthesis accessibility of compounds with high accuracy, helping researchers select cost-effective molecules for synthesis.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/deepsa/";
+            },},{id: "projects-geminimol-conformational-space-profiling-for-molecular-representation",
+          title: 'GeminiMol: Conformational Space Profiling for Molecular Representation',
+          description: "A molecular representation method that enhances ligand-based drug discovery by profiling conformational space.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/geminimol/";
+            },},{id: "projects-hcov-hku1-receptor-binding-site-clarification-via-molecular-docking",
+          title: 'HCoV-HKU1 Receptor Binding Site Clarification via Molecular Docking',
+          description: "Clarifying the real receptor binding site between HCoV-HKU1 and 9-O-Ac-Sia using molecular docking.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/hcov-hku1/";
+            },},{id: "projects-molecular-representation-methods-and-scaffold-hopping-a-review",
+          title: 'Molecular Representation Methods and Scaffold Hopping: A Review',
+          description: "A comprehensive review of recent advances in molecular representation methods and their applications in scaffold hopping.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/mol-repr-review/";
+            },},{id: "projects-discovery-of-novel-nmda-receptor-inhibitors-via-deep-learning",
+          title: 'Discovery of Novel NMDA Receptor Inhibitors via Deep Learning',
+          description: "Using deep learning methods to discover novel GluN1/GluN3A NMDA receptor inhibitors.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/nmdar/";
+            },},{id: "projects-phenomodel-a-multimodal-phenotypic-drug-design-foundation-model",
+          title: 'PhenoModel: A Multimodal Phenotypic Drug Design Foundation Model',
+          description: "A molecular representation foundation model integrating cell phenotype data for virtual screening and active compound discovery.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/phenomodel/";
+            },},{id: "projects-sars-cov-2-molecular-evolution-in-the-united-states",
+          title: 'SARS-CoV-2 Molecular Evolution in the United States',
+          description: "Preliminary analysis of the evolutionary characteristics of SARS-CoV-2 emerging in the United States.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/sars-cov2/";
             },},{
         id: 'social-email',
         title: 'email',
