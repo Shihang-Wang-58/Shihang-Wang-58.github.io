@@ -193,11 +193,6 @@ ninja.data = [{
           description: "A molecular representation foundation model integrating cell phenotype data for virtual screening and active compound discovery.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/phenomodel/";
-            },},{id: "projects-sars-cov-2-molecular-evolution-in-the-united-states",
-          title: 'SARS-CoV-2 Molecular Evolution in the United States',
-          description: "Preliminary analysis of the evolutionary characteristics of SARS-CoV-2 emerging in the United States.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/sars-cov2/";
             },},{
         id: 'social-email',
         title: 'email',
