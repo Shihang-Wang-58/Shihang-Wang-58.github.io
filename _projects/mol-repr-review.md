@@ -2,7 +2,6 @@
 layout: page
 title: "Molecular Representation Methods and Scaffold Hopping: A Review"
 description: A comprehensive review of recent advances in molecular representation methods and their applications in scaffold hopping.
-img:
 importance: 1
 category: Molecular Representation
 ---

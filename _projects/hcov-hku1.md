@@ -2,7 +2,6 @@
 layout: page
 title: "HCoV-HKU1 Receptor Binding Site Clarification via Molecular Docking"
 description: Clarifying the real receptor binding site between HCoV-HKU1 and 9-O-Ac-Sia using molecular docking.
-img:
 importance: 2
 category: Bioinformatics
 ---

@@ -2,7 +2,6 @@
 layout: page
 title: "Antiviral Drug-Protease Interaction Prediction"
 description: Computer-aided prediction of interactions between viral proteases and antiviral drugs.
-img:
 importance: 3
 category: AI for Drug Design
 ---

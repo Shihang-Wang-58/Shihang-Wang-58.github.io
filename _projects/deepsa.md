@@ -2,7 +2,6 @@
 layout: page
 title: "DeepSA: Deep Learning-Driven Predictor of Compound Synthesis Accessibility"
 description: A deep learning model that predicts the synthesis accessibility of compounds with high accuracy, helping researchers select cost-effective molecules for synthesis.
-img: assets/img/publication_preview/DeepSA-preview.png
 importance: 1
 category: AI for Drug Design
 github: https://github.com/Shihang-Wang-58/DeepSA
@@ -13,7 +12,7 @@ github: https://github.com/Shihang-Wang-58/DeepSA
 <h3 class="mt-0">Authors</h3>
 
 <p>
-<strong>Shihang Wang</strong>, <a href="https://scholar.google.com/citations?user=WCGVnfYAAAAJ">Lin Wang</a>, Fenglei Li, <a href="https://scholar.google.com.hk/citations?user=FZ3zkfcAAAAJ&hl=zh-CN">Fang Bai</a>
+<strong>Shihang Wang</strong>, Lin Wang, Fenglei Li, <a href="https://scholar.google.com.hk/citations?user=FZ3zkfcAAAAJ&hl=zh-CN">Fang Bai</a>
 </p>
 
 <p>

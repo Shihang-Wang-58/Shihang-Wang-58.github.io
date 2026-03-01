@@ -2,7 +2,6 @@
 layout: page
 title: "Bamucuo Lake Metagenomics: Microbial Community in Tibet"
 description: Metagenomics revealing molecular profiles of microbial community in Bamucuo Lake, Tibet.
-img:
 importance: 3
 category: Bioinformatics
 ---

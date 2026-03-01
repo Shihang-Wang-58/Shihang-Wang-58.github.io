@@ -2,7 +2,6 @@
 layout: page
 title: "DeepmRNALoc: Deep Learning-Based mRNA Subcellular Localization Predictor"
 description: A novel predictor of eukaryotic mRNA subcellular localization based on deep learning.
-img:
 importance: 3
 category: AI for Drug Design
 ---

@@ -1,8 +1,6 @@
----
 layout: page
 title: "SARS-CoV-2 Molecular Evolution in the United States"
 description: Preliminary analysis of the evolutionary characteristics of SARS-CoV-2 emerging in the United States.
-img:
 importance: 1
 category: Bioinformatics
 ---

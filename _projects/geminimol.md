@@ -2,7 +2,6 @@
 layout: page
 title: "GeminiMol: Conformational Space Profiling for Molecular Representation"
 description: A molecular representation method that enhances ligand-based drug discovery by profiling conformational space.
-img:
 importance: 2
 category: Molecular Representation
 ---
@@ -12,7 +11,7 @@ category: Molecular Representation
 <h3 class="mt-0">Authors</h3>
 
 <p>
-<a href="https://scholar.google.com/citations?user=WCGVnfYAAAAJ">Lin Wang</a>, <strong>Shihang Wang</strong>, Hao Yang, Shiwei Li, Xinyu Wang, Yongqi Zhou, Siyuan Tian, Lu Liu, <a href="https://scholar.google.com.hk/citations?user=FZ3zkfcAAAAJ&hl=zh-CN">Fang Bai</a>
+Lin Wang, <strong>Shihang Wang</strong>, Hao Yang, Shiwei Li, Xinyu Wang, Yongqi Zhou, Siyuan Tian, Lu Liu, <a href="https://scholar.google.com.hk/citations?user=FZ3zkfcAAAAJ&hl=zh-CN">Fang Bai</a>
 </p>
 
 <p>

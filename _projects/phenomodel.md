@@ -2,7 +2,6 @@
 layout: page
 title: "PhenoModel: A Multimodal Phenotypic Drug Design Foundation Model"
 description: A molecular representation foundation model integrating cell phenotype data for virtual screening and active compound discovery.
-img: assets/img/posters/PhenoModel_poster.png
 importance: 1
 category: AI for Drug Design
 github: https://github.com/Shihang-Wang-58/PhenoScreen
@@ -13,7 +12,7 @@ github: https://github.com/Shihang-Wang-58/PhenoScreen
 <h3 class="mt-0">Authors</h3>
 
 <p>
-<strong>Shihang Wang</strong>, Qilei Han, Weichen Qin, <a href="https://scholar.google.com/citations?user=WCGVnfYAAAAJ">Lin Wang</a>, Junhong Yuan, Yiqun Zhao, Pengxuan Ren, Yunze Zhang, Yilin Tang, Ruifeng Li, et al.
+<strong>Shihang Wang</strong>, Qilei Han, Weichen Qin, Lin Wang, Junhong Yuan, Yiqun Zhao, Pengxuan Ren, Yunze Zhang, Yilin Tang, Ruifeng Li, et al.
 </p>
 
 <p>

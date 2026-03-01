@@ -2,7 +2,6 @@
 layout: page
 title: "DeepPSA: Geometric Deep Learning for PROTAC Synthetic Accessibility"
 description: A geometric deep learning model for predicting PROTAC synthetic accessibility.
-img:
 importance: 2
 category: AI for Drug Design
 ---
@@ -12,7 +11,7 @@ category: AI for Drug Design
 <h3 class="mt-0">Authors</h3>
 
 <p>
-Ran Zhang, <strong>Shihang Wang</strong>, <a href="https://scholar.google.com/citations?user=WCGVnfYAAAAJ">Lin Wang</a>, Siyuan Tian, Yilin Tang, <a href="https://scholar.google.com.hk/citations?user=FZ3zkfcAAAAJ&hl=zh-CN">Fang Bai</a>
+Ran Zhang, <strong>Shihang Wang</strong>, Lin Wang, Siyuan Tian, Yilin Tang, <a href="https://scholar.google.com.hk/citations?user=FZ3zkfcAAAAJ&hl=zh-CN">Fang Bai</a>
 </p>
 
 <p>

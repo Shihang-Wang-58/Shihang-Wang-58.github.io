@@ -2,7 +2,6 @@
 layout: page
 title: "Discovery of Novel NMDA Receptor Inhibitors via Deep Learning"
 description: Using deep learning methods to discover novel GluN1/GluN3A NMDA receptor inhibitors.
-img:
 importance: 2
 category: AI for Drug Design
 ---
@@ -12,7 +11,7 @@ category: AI for Drug Design
 <h3 class="mt-0">Authors</h3>
 
 <p>
-<strong>Shihang Wang</strong>, Yue Zeng, Hao Yang, Siyuan Tian, Yongqi Zhou, <a href="https://scholar.google.com/citations?user=WCGVnfYAAAAJ">Lin Wang</a>, Xueqin Chen, Haiying Wang, Zhaobing Gao, <a href="https://scholar.google.com.hk/citations?user=FZ3zkfcAAAAJ&hl=zh-CN">Fang Bai</a>
+<strong>Shihang Wang</strong>, Yue Zeng, Hao Yang, Siyuan Tian, Yongqi Zhou, Lin Wang, Xueqin Chen, Haiying Wang, Zhaobing Gao, <a href="https://scholar.google.com.hk/citations?user=FZ3zkfcAAAAJ&hl=zh-CN">Fang Bai</a>
 </p>
 
 <p>
